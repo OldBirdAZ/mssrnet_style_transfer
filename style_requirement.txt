@@ -1,0 +1,5 @@
+kenlm
+fasttext
+configargparse
+torchtext==0.7.0
+streamtologger
